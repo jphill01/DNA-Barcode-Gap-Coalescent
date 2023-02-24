@@ -29,8 +29,3 @@ length(which(na.omit(p_x_prime_NN) == max(p_x_prime_NN, na.rm = TRUE)))
 
 length(which(na.omit(q_x_prime_NN) == min(q_x_prime_NN, na.rm = TRUE)))
 length(which(na.omit(q_x_prime_NN) == max(q_x_prime_NN, na.rm = TRUE)))
-
-# Obtain number of species having both (p, q) and/or (p' q') equal to 0 (i.e., showing evidence of a DNA barcode gap)
-
-length(which(na.omit(p_x) == 0) && which(na.omit(q_x) == 0))
-length(which(na.omit(p_x_prime_NN) == 0) && which(na.omit(q_x_prime_NN) == 0))
