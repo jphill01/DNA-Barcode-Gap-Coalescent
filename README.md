@@ -1,5 +1,7 @@
 # DNA-Barcode-Gap-Coalescent
 
+## Calculating the statistical metrics to assess the extent DNA barcode gap overlap/separation
+
 To perform the analysis:
 
 1. Place folder containing the DNA sequence alignments in Desktop. Users should ensure their own data closely follows this format.
