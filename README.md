@@ -4,7 +4,7 @@
 
 ![alt text](https://github.com/jphill01/DNA-Barcode-Gap-Coalescent/blob/main/img/Fig.%201.pdf)
 
-![alt text]()
+![alt text](https://github.com/jphill01/DNA-Barcode-Gap-Coalescent/blob/main/img/Fig%2C%202.pdf)
 
 To perform the analysis:
 
