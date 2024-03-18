@@ -6,6 +6,8 @@
 
 ![alt text](https://github.com/jphill01/DNA-Barcode-Gap-Coalescent/blob/main/img/Fig%2C%202.jpg)
 
+## How to Run
+
 To perform the analysis:
 
 1. Place folder containing the DNA sequence alignments in Desktop. Users should ensure their own data closely follows this format.
@@ -15,3 +17,6 @@ To perform the analysis:
 5. Run `bootstrap_coalescent.R` to perform nonparametric bootstrapping to calculate 95% confidence intervals.
 
 
+## References
+
+Phillips, J.D., Griswold, C.K., Young, R.G., Hubert, N. and Hanner, R.H. (To appear). A measure of the DNA barcode gap for applied and basic research. Methods in Molecular Biology. Springer.
