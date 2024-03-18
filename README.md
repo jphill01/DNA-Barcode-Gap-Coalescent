@@ -2,6 +2,8 @@
 
 ## Calculating the nonparametric statistical metrics to assess the extent of DNA barcode gap overlap/separation
 
+![alt text]()
+
 To perform the analysis:
 
 1. Place folder containing the DNA sequence alignments in Desktop. Users should ensure their own data closely follows this format.
