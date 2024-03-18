@@ -2,6 +2,8 @@
 
 ## Calculating the nonparametric statistical metrics to assess the extent of DNA barcode gap overlap/separation
 
+![alt text](https://github.com/jphill01/DNA-Barcode-Gap-Coalescent/blob/main/img/Fig.%201.pdf)
+
 ![alt text]()
 
 To perform the analysis:
