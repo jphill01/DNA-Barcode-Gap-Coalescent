@@ -16,7 +16,7 @@ To perform the analysis:
 4. Run `summary_stats.R` to generate summary statistics for the metrics.
 5. Run `bootstrap_coalescent.R` to perform nonparametric bootstrapping to calculate 95% confidence intervals.
 
-# Contact Information
+## Contact Information
 
 Should questions or concerns arise, please feel free to contact me at jphill01@uoguelph.ca.
 
