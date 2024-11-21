@@ -18,7 +18,7 @@ To perform the analysis:
 
 # Contact Information
 
-Should questions or concerns arise, please feel free to contact me at \href{jphill01@uoguelph.ca}{jphill01@uoguelph.ca}.
+Should questions or concerns arise, please feel free to contact me jphill01@uoguelph.ca.
 
 ## References
 
